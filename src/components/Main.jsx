@@ -9,7 +9,7 @@ function Main() {
           <h3 className="ride">let's Ride the</h3>
           <h1 className="future">FUTURE</h1>
           <p className="para">Simple and sleek design with users in mind.</p>
-          <button className="btn">Pre-Odrer</button>
+          <button className="btn">Post-Odrer</button>
         </div>
         <div className="right-main">
           <h1 className="ev">EV-B</h1>
